@@ -1,0 +1,18 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 6rem;
+}
+
+
+#btnContainer{
+    text-align: center;
+
+}
+
+.buttons{
+    padding: 10px 20px;
+    font: 1.5rem;
+    color: white;
+    background-color: red;
+}
