@@ -15,4 +15,11 @@
     font: 1.5rem;
     color: white;
     background-color: red;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover {
+    background-color: hsl(251, 79%, 35%);
 }
